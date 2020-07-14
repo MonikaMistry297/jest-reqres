@@ -1,0 +1,23 @@
+{
+  "name": "typescript_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "eslint": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "@types/node": "^14.0.22",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
